@@ -1,3 +1,4 @@
-# Ethereum_smart_contract
+# ETHEREUM SMART CONTRACT
 ## Refund by location mobile Dapp
-<img src="refund.jpeg" alt="isolated" width="1000" height="250"/>
+<img src="contract.jpeg" alt="isolated" width="1000" height="250"/>
+
